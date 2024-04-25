@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm Paweł, a 23-year-old robotics and automation engineer, studying biotechnology. Beeing powered by jazz music, decadent literature and cinematic masterpieces, my mind is full of ideas, both within and outside my field of study.
 
