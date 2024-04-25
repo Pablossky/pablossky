@@ -2,7 +2,7 @@
 
 I'm Paweł, a 23-year-old robotics and automation engineer, studying biotechnology. Beeing powered by jazz music, decadent literature and cinematic masterpieces, my mind is full of ideas, both within and outside my field of study.
 
-## Skills / Hobbies / Learning
+### Skills / Hobbies / Learning
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white) 
 
